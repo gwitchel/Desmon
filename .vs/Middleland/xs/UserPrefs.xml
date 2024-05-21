@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{ECD5EFBA-3F72-CB48-05D8-B53C2995B20C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Dialogue/BasicDialogue.cs">
+    <Files>
+      <File FileName="Assets/Health.cs" Line="47" Column="1" />
+      <File FileName="Assets/Planting.cs" Line="39" Column="33" />
+      <File FileName="Assets/Dialogue.cs" Line="154" Column="6" />
+      <File FileName="Assets/Scripts/Dialogue/BasicDialogue.cs" Line="64" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Middleland" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="LevelNavigator" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="Dialogue" expanded="True">
+                  <Node name="BasicDialogue.cs" selected="True" />
+                </Node>
+                <Node name="Enemies" expanded="True" />
+                <Node name="Misc" expanded="True">
+                  <Node name="CountDown" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="TextMesh Pro" expanded="True">
+                <Node name="Shaders" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="414a9721-3189-4776-a7aa-42806930765c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
